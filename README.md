@@ -1,25 +1,5 @@
 # VS Code ES7 React/Redux/React-Native/JS snippets
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/dsznajder.es7-react-js-snippets.svg)](https://vsmarketplacebadge.apphb.com/version-short/dsznajder.es7-react-js-snippets.svg)
-[![Install](https://vsmarketplacebadge.apphb.com/installs/dsznajder.es7-react-js-snippets.svg)](https://vsmarketplacebadge.apphb.com/installs-short/dsznajder.es7-react-js-snippets.svg)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/dsznajder.es7-react-js-snippets.svg)](https://vsmarketplacebadge.apphb.com/rating-short/dsznajder.es7-react-js-snippets.svg)
-
-This extension provide you Javascript and React/Redux snippets in ES7 with babel plugins features for [Vs Code](https://code.visualstudio.com/)
-
-Here is direct link to marketplace [ES7 React/Redux/React-Native/JS Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-
-## Supported languages (file extensions)
-
-- JavaScript (.js)
-- JavaScript React (.jsx)
-- TypeScript (.ts)
-- TypeScript React (.tsx)
-
-## Snippets info
-
-Every space inside `{ }` and `( )` means that this is pushed into next line :)
-`$` represent each step after `tab`.
-
 ## Basic Methods
 
 |  Prefix | Method                                              |
